@@ -1,13 +1,14 @@
+*note: when (A2) or some variation is mentioned, it is referring to the excel spreadsheet Q1.xslx
 a)
-Given the sample dataset, I used the excel command AVERAGE(D:D) to determine the average of this data-set is $3145.13 per order, 
+Given the sample dataset, I used the excel command AVERAGE(D:D) (H2) to determine the average of this data-set is $3145.13 per order, 
 which indicated that the metric "naively" reported was the mean. 
 Since there are some extremely large outliers, and this leads to an inaccurarte mean. 
 The mean is best used for datasets with a relatively small standard deviation. 
-Here, the standard deviation is about 41000 which makes the mean a bad measure of the average here. 
+Here, the standard deviation is about 41000 (J2) which makes the mean a bad measure of the average here. 
 
 b)
 The median is the metric which I would report, as extreme outliers do not significantly change the median when dealing with such a large data-set
 The median can give an accurate representation of an average when the standard deviation is so high.
 
 c)
-using the excel command MEDIAN(D:D), I determined the median to be $284 per purchase which gives a much better representation of this data
+using the excel command MEDIAN(D:D), (I2) I determined the median to be $284 per purchase which gives a much better representation of this data
