@@ -1,4 +1,4 @@
-*note: when (A2) or some variation is mentioned, it is referring to the excel spreadsheet Q1.xslx
+*note: when (A2) or some variation is mentioned, it is referring to the excel spreadsheet Q1.xlsx
 a)
 Given the sample dataset, I used the excel command AVERAGE(D:D) (H2) to determine the average of this data-set is $3145.13 per order, 
 which indicated that the metric "naively" reported was the mean. 
